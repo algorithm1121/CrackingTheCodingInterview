@@ -3,7 +3,7 @@ package com.erin;
 /**
  * @author Peter on 2016-04-22.
  */
-public class ChpaterOne {
+public class ChapterOne {
 
     /***
      * 1.1 Implement an algorithm to determine if a string has all unique characters.
